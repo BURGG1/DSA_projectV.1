@@ -1,0 +1,41 @@
+Code Complete
+Steve McConnell
+2004
+23
+Programming Section
+9780735619678
+Clean Code
+Robert C. Martin
+2008
+22
+Programming Section
+ 9780136083238
+Coders At Work
+Peter Seibel
+2009
+12
+Programming Section
+1430219283
+Title: The Pragmati Programmer
+Author: David Thomas and Andrew Hunt
+Year: 2019
+Availability: 11
+Location: Programming Section
+ISBN:  9780135957059
+Title: Introduction to Algorithms
+Author: Thomas H. Cormen, et al.
+Year: 1989
+Availability: 3
+Location: Programming Section
+ISBN:  9780262046305Title: Isang Kaibigan
+Author: Sara 
+Year: 2021
+Availability: 100
+Location: 100
+ISBN: 1000
+Title: Isang Friend
+Author: Sara Marcos
+Year: 2024
+Availability: 100
+Location: Fiction
+ISBN: 10000
